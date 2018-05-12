@@ -1,4 +1,8 @@
 _repo: Nicht-der-Morder-der-Ermordete-ist-schuldig_47939
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47939-h/images/cover.jpg
 creator:
   author:
     agent_name: Werfel, Franz
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '40450'
     url: http://www.gutenberg.org/2009/agents/40450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47939#Nicht-der-Morder-der-Ermordete-ist-schuldig
 gutenberg_issued: '2015-01-11'
 gutenberg_type: Text
 identifiers:
